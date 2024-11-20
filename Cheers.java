@@ -3,7 +3,7 @@ public class Cheers {
         public static void main(String[] args) {
             String input = args[0].toUpperCase();
             int times = Integer.parseInt(args[1]);
-            String an = "AEFHILMNOR";
+            String an = "AEFHILMNORSX";
             for(int i = 0; i< input.length() ; i++)
             {
                 char current = input.charAt(i);
