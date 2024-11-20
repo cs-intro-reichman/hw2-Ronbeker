@@ -13,7 +13,7 @@ public class Cheers {
                 }
                 else
                 {
-                    System.out.print("a ");
+                    System.out.print("a  ");
                 }
                 System.out.println(current + ": " + current + "!");
 
