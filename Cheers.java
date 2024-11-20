@@ -15,7 +15,7 @@ public class Cheers {
                 {
                     System.out.print("a ");
                 }
-                System.out.println(current + "!");
+                System.out.println(current + ": " + current + "!");
 
             }
             for(int i = 0; i < times; i++)
